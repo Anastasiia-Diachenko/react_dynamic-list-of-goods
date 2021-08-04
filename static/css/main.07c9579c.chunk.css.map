@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,iBAAkB,CACnB,QAIC,WAAY,CACb,eAFC,WAKY","file":"main.07c9579c.chunk.css","sourcesContent":[".goods {\n  text-align: center;\n}\n\n.button {\n  margin: 16px;\n  padding: 8px;\n}\n\n.title {\n  margin: 16px;\n}\n"]}
